@@ -1,6 +1,6 @@
 # Hi, I'm Aman Sharma 👋
 
-### 👨‍💻 Full Stack Developer | Engineer @ Zarthi Private Limited
+### 👨‍💻 Software Engineer @ Zarthi Private Limited
 I am a Software Engineer focused on building robust, full-stack applications with a deep emphasis on high-performance Frontend Engineering. I specialize in **Clean Architecture**, **SOLID principles**, and **Modular Styling** to create scalable digital products.
 
 ---
