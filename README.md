@@ -44,7 +44,6 @@ A personalized music experience application built with the **MERN stack**.
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSharma1728&theme=tokyonight&hide_border=true" alt="Aman's Contribution Streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=AmanSharma1728&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
