@@ -48,5 +48,5 @@ A personalized music experience application with a focus on seamless state manag
 ---
 
 ### 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/aman-sharma-098a37274)
+- **LinkedIn:** [Linkedin](https://linkedin.com/in/aman-sharma-098a37274)
 - **Status:** Currently building scalable solutions at **Zarthi Private Limited**.
