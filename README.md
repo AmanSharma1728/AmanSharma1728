@@ -20,33 +20,44 @@ I am a Software Engineer focused on building robust, full-stack applications wit
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Engineering Standards**
-- 🏗️ **Architecture:** Clean Architecture, SOLID Principles.
-- 🎨 **Styling:** Advanced **SCSS** utilizing the **BEM (Block Element Modifier)** methodology.
-- 🐳 **DevOps:** Docker (Containerization), Git/GitHub, SonarQube (Static Analysis).
+- 🏗️ **Architecture:** Clean Architecture, SOLID Principles, Monorepo Management.
+- 🎨 **Styling:** Advanced **SCSS** focusing on **Modular Styling** and **Responsive Design**.
+- 🐳 **Infrastructure:** Git/GitHub Workflows, Docker (Containerization).
 
 ---
 
 ### 🚀 Featured Full-Stack Projects
 
 #### 🛍️ [Noir Fashion Store](https://github.com/AmanSharma1728/noir-fashion-store)
-A premium e-commerce platform built with the **MERN stack**. 
-- Engineered using **Clean Architecture** to ensure complete decoupling of business logic from UI frameworks.
-- Focused on high-performance UI using **Modular SCSS** and containerized for production with **Docker**.
+A premium e-commerce foundation built as a **Monorepo** using the **MEAN stack**.
+- **Architecture:** Engineered using **Clean Architecture** to ensure complete decoupling of business logic from the Angular UI layer.
+- **Workflow:** Optimized for local development using **Concurrently** and **NPM Workspaces** for simultaneous frontend and backend execution.
 
 #### 🎵 [Moody Player](https://github.com/AmanSharma1728/moody-player)
-A personalized music experience application with a focus on seamless state management.
-- Implemented a strictly **flat BEM structure** in SCSS for scalable, conflict-free design systems.
+A personalized music experience application built with the **MERN stack**.
+- **AI Integration:** Utilized **faceapi.js** to implement real-time facial expression recognition for mood-based music recommendations.
+- **State Management:** Focused on seamless data flow between React components and the Node.js backend.
 
 ---
 
 ### 📊 Engineering Insights
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanSharma1728&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSharma1728&layout=compact&theme=tokyonight"/>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSharma1728&theme=tokyonight&hide_border=true" alt="Aman's Contribution Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=AmanSharma1728&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanSharma1728&theme=tokyonight" alt="Aman's Engineering Profile Details" />
 </p>
 
 ---
 
+### 🎓 Academic & Professional Milestones
+- **GATE 2025 Qualified** in Computer Science & Information Technology.
+- Currently building scalable solutions at **Zarthi Private Limited**.
+---
+
 ### 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/aman-sharma-098a37274](https://linkedin.com/in/aman-sharma-098a37274)
-- **Status:** Currently building scalable solutions at **Zarthi Private Limited**.
+- **Status:** Actively exploring Open Source and high-performance Web Architectures.
